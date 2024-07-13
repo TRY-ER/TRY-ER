@@ -28,8 +28,6 @@ Welcome to my GitHub profile! I'm passionate about software development, always 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TRY-ER&theme=radical)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=TRY-ER&theme=radical)
-
 ## 🔥 My Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRY-ER&layout=compact&theme=radical)
