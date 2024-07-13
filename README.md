@@ -59,9 +59,9 @@ Welcome to my GitHub profile! I'm a Ph.D. student specializing in Material Scien
 
 ## 📬 Get in Touch
 
-- **Email:** [try-er@example.com](mailto:try-er@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Email:** [availdebasish@gmail.com](mailto:availdebasish@gmail.com)
+- **LinkedIn:** [Debasish Mohanty](https://www.linkedin.com/in/debasish-mohanty-634b91204/)
+- **Website:** [https://try-er.github.io/debasish/](https://try-er.github.io/debasish/)
 
 Thanks for stopping by! Let's build something amazing together! 🚀
 
