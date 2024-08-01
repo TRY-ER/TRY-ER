@@ -47,15 +47,12 @@ Welcome to my GitHub profile! I'm a Ph.D. student specializing in Material Scien
 
 ### [Incorporating Polymer Representation in DeepChem for Drug Delivery and Material Science Support](https://github.com/deepchem/deepchem)
 ![Project 1](https://img.shields.io/github/stars/deepchem/deepchem?style=social)
-- **Description:** A brief description of what this project does.
+- **Description:** Working on integration of weighted directed graph representation and BigSMILES representation integration into deepchem ecosystem.
 
-### [Project 2](https://github.com/TRY-ER/Project-2)
-![Project 2](https://img.shields.io/github/stars/TRY-ER/Project-2?style=social)
-- **Description:** A brief description of what this project does.
+### [Perovskite Solar Cell Efficiency Regression Application](https://github.com/TRY-ER/perov_deployment)
+![Project 2](https://img.shields.io/github/stars/TRY-ER/perov_deployment?style=social)
+- **Description:** Perovskite Solar Cells (PSCs) have shown great potential in recent years due to their high efficiency and relatively low production cost. Predicting the Power Conversion Efficiency (PCE) accurately is crucial for the development and optimization of these solar cells. This project leverages advanced machine learning techniques to provide accurate PCE predictions based on various input parameters.
 
-### [Project 3](https://github.com/TRY-ER/Project-3)
-![Project 3](https://img.shields.io/github/stars/TRY-ER/Project-3?style=social)
-- **Description:** A brief description of what this project does.
 
 ## 📬 Get in Touch
 
