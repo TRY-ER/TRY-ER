@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Ph.D. student specializing in Material Scien
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working with **[DeepChem](https://deepchem.io/) and [BigSMILES](https://github.com/dylanwal/bigsmiles)**
+- 🔭 I’m currently working with **[DeepChem](https://deepchem.io/)**
 - 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/) and [Bend](https://github.com/HigherOrderCO/Bend)**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Chemistry, Polymer Research, Generative AI and more**
